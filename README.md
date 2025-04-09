@@ -1,1 +1,1 @@
-# API-example
+# API-example + Local Storage
